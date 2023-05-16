@@ -16,10 +16,14 @@
 ### 📈 Github Statistics
 
 <div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=JHex-git&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHex-git&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHex-git&theme=nord_bright" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JHex-git&theme=nord_bright" />
+    <span></span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHex-git&theme=nord_bright" />
+    <br />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHex-git&theme=nord_bright" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JHex-git&theme=nord_bright" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JHex-git&theme=tokyonight_duo" />
 </div>
 
